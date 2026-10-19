@@ -1,0 +1,8 @@
+{
+  "name": "Panshop Kampaniyalar yeni sayfa",
+  "description": "Panshop Azərbaycan marketplace üçün endirimlər, mağaza kuponları, flaş satışlar və bayram təqvimi kampaniyaları səhifəsi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
